@@ -1,0 +1,122 @@
+[
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 0,
+    "name": "Portico",
+    "hp": 131,
+    "attack": 190,
+    "rank": "nomal"
+  },
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 1,
+    "name": "Cosmetex",
+    "hp": 54,
+    "attack": 139,
+    "rank": "rare"
+  },
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 2,
+    "name": "Plasmox",
+    "hp": 92,
+    "attack": 139,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "cleobradford@bedder.com",
+    "index": 3,
+    "name": "Ontality",
+    "hp": 124,
+    "attack": 166,
+    "rank": "rare"
+  },
+  {
+    "email": "cleobradford@bedder.com",
+    "index": 4,
+    "name": "Zilladyne",
+    "hp": 63,
+    "attack": 74,
+    "rank": "nomal"
+  },
+  {
+    "email": "sherribradford@bedder.com",
+    "index": 5,
+    "name": "Cytrex",
+    "hp": 153,
+    "attack": 158,
+    "rank": "rare"
+  },
+  {
+    "email": "tanishabradford@bedder.com",
+    "index": 6,
+    "name": "Cipromox",
+    "hp": 133,
+    "attack": 156,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "carolebradford@bedder.com",
+    "index": 7,
+    "name": "Zork",
+    "hp": 111,
+    "attack": 157,
+    "rank": "superRare"
+  },
+  {
+    "email": "lethabradford@bedder.com",
+    "index": 8,
+    "name": "Comdom",
+    "hp": 124,
+    "attack": 103,
+    "rank": "nomal"
+  },
+  {
+    "email": "gillespiebradford@bedder.com",
+    "index": 9,
+    "name": "Netility",
+    "hp": 110,
+    "attack": 186,
+    "rank": "nomal"
+  },
+  {
+    "email": "delacruzbradford@bedder.com",
+    "index": 10,
+    "name": "Zolar",
+    "hp": 92,
+    "attack": 112,
+    "rank": "rare"
+  },
+  {
+    "email": "jobradford@bedder.com",
+    "index": 11,
+    "name": "Frolix",
+    "hp": 186,
+    "attack": 164,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "debrabradford@bedder.com",
+    "index": 12,
+    "name": "Comtrak",
+    "hp": 63,
+    "attack": 118,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 13,
+    "name": "Straloy",
+    "hp": 111,
+    "attack": 145,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 14,
+    "name": "Updat",
+    "hp": 114,
+    "attack": 73,
+    "rank": "rare"
+  }
+]

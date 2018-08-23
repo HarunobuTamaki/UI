@@ -1,0 +1,122 @@
+[
+  {
+    "email": "meltonbradford@bedder.com",
+    "index": 0,
+    "name": "Cleo",
+    "hp": 130,
+    "attack": 135,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "cleobradford@bedder.com",
+    "index": 1,
+    "name": "Sherri",
+    "hp": 144,
+    "attack": 125,
+    "rank": "superRare"
+  },
+  {
+    "email": "sherribradford@bedder.com",
+    "index": 2,
+    "name": "Tanisha",
+    "hp": 80,
+    "attack": 57,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "tanishabradford@bedder.com",
+    "index": 3,
+    "name": "Carole",
+    "hp": 107,
+    "attack": 77,
+    "rank": "superRare"
+  },
+  {
+    "email": "carolebradford@bedder.com",
+    "index": 4,
+    "name": "Letha",
+    "hp": 83,
+    "attack": 134,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "lethabradford@bedder.com",
+    "index": 5,
+    "name": "Gillespie",
+    "hp": 176,
+    "attack": 95,
+    "rank": "rare"
+  },
+  {
+    "email": "gillespiebradford@bedder.com",
+    "index": 6,
+    "name": "Delacruz",
+    "hp": 126,
+    "attack": 166,
+    "rank": "nomal"
+  },
+  {
+    "email": "delacruzbradford@bedder.com",
+    "index": 7,
+    "name": "Jo",
+    "hp": 55,
+    "attack": 169,
+    "rank": "nomal"
+  },
+  {
+    "email": "jobradford@bedder.com",
+    "index": 8,
+    "name": "Debra",
+    "hp": 141,
+    "attack": 116,
+    "rank": "nomal"
+  },
+  {
+    "email": "debrabradford@bedder.com",
+    "index": 9,
+    "name": "Heidi",
+    "hp": 78,
+    "attack": 135,
+    "rank": "rare"
+  },
+  {
+    "email": "heidibradford@bedder.com",
+    "index": 10,
+    "name": "Workman",
+    "hp": 163,
+    "attack": 70,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "workmanbradford@bedder.com",
+    "index": 11,
+    "name": "Mcdowell",
+    "hp": 125,
+    "attack": 56,
+    "rank": "UltimateRare"
+  },
+  {
+    "email": "mcdowellbradford@bedder.com",
+    "index": 12,
+    "name": "Corinne",
+    "hp": 66,
+    "attack": 185,
+    "rank": "nomal"
+  },
+  {
+    "email": "corinnebradford@bedder.com",
+    "index": 13,
+    "name": "Lynn",
+    "hp": 156,
+    "attack": 67,
+    "rank": "superRare"
+  },
+  {
+    "email": "lynnbradford@bedder.com",
+    "index": 14,
+    "name": "Essie",
+    "hp": 168,
+    "attack": 169,
+    "rank": "UltimateRare"
+  }
+]
